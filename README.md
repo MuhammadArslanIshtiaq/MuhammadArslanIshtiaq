@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @MuhammadArslanIshtiaq
-- 👀 I’m interested in Frontend Development...
-- 🌱 I’m currently learning Vue.JS and React.JS...
+- 👋 Hi, I’m Muhammad Arslan Ishtiaq.
+- 👀 I’m currently working on Frontend technologies like React.js and Vue.js
+- 🌱 I’m currently exploring web 3.0, blockchain and meta verse.
+- ⚡ Fun fact about me? I love to explore new tecnologies and meet tech enthusiats.
+- 📄 Know about my experiences https://www.linkedin.com/in/muhammadarslanishtiaq/
 - 📫 How to reach me ? email: muhammadarslanishtiaq@gmail.com...
-
-<!---
-MuhammadArslanIshtiaq/MuhammadArslanIshtiaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
